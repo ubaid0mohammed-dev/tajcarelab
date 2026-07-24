@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F06292"/>
+      <stop offset="100%" stop-color="#E91E63"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="#ffffff"/>
+  <text x="60" y="110" font-family="Nunito, Quicksand, sans-serif" font-weight="900" font-size="120" fill="url(#grad)">Tajcare</text>
+  <!-- star above j -->
+  <polygon points="350,38 358,58 378,58 363,71 369,91 350,78 331,91 337,71 322,58 342,58" fill="#F06292"/>
+  <!-- lab -->
+  <text x="60" y="340" font-family="Nunito, Quicksand, sans-serif" font-weight="800" font-size="160" fill="#4DB6AC">lab</text>
+  <!-- gold badge -->
+  <g transform="translate(460,290)">
+    <circle r="58" fill="#D4AF37" stroke="#B8960C" stroke-width="3"/>
+    <circle r="48" fill="#111111"/>
+    <text x="0" y="-16" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" letter-spacing="1">SINCE</text>
+    <text x="0" y="18" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22">2007</text>
+    <text x="0" y="-30" text-anchor="middle" fill="#FFD54F" font-size="18">★★★</text>
+    <path d="M-24,60 L0,98 L24,60 L0,88 Z" fill="#D32F2F"/>
+  </g>
+  <!-- ISO badge -->
+  <g transform="translate(640,290)">
+    <circle r="50" fill="#1565C0" opacity="0.08"/>
+    <circle r="16" fill="none" stroke="#1565C0" stroke-width="2.5"/>
+    <path d="M-40,-14 Q-18,-28 4,-14 Q22,-2 40,-14 M-42,-6 Q-18,-22 2,-6 Q22,8 42,-6 M-42,2 Q-18,-14 2,2 Q22,20 42,2 M-40,10 Q-18,-4 4,10 Q22,26 40,10" fill="none" stroke="#1565C0" stroke-width="2.8"/>
+    <text x="0" y="-18" text-anchor="middle" fill="#1565C0" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="52">ISO</text>
+    <path d="M-34,24 Q0,44 34,24 L34,54 Q0,74 -34,54 Z" fill="#1565C0"/>
+    <text x="0" y="48" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" letter-spacing="0.5">9001:2015</text>
+  </g>
+  <text x="60" y="390" font-family="Nunito, Quicksand, sans-serif" font-weight="900" font-size="45" fill="url(#grad)">9542 070 071</text>
+</svg>
